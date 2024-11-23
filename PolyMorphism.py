@@ -80,6 +80,8 @@ print("*"*50)
 print(p)
 print("*"*50)
 
+# More comments
+
 class IO:
     @staticmethod
     def input_data_to_table(student_data: list[Student]):
